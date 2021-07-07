@@ -5,7 +5,7 @@ schema:
   author:
     - mkpoli <il.opkm@mkpo.li>
   description: |
-    言善以書。
+    言善以文言。
 
 switches:
   - name: ascii_mode
