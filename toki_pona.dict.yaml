@@ -1,6 +1,6 @@
 ﻿---
 name: toki_pona
-version: 0.1.0
+version: 0.2.0
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -31,6 +31,7 @@ use_preset_vocabulary: true
 及	en
 但	taso
 亦	kin
+
 # Particles
 者	li
 於	o
@@ -71,6 +72,7 @@ use_preset_vocabulary: true
 內	insa
 新	sin
 異	ante
+益	namako
 
 # Sensation
 感	pilin
@@ -123,6 +125,7 @@ use_preset_vocabulary: true
 # Food
 食	moku
 果	kili
+米	pan
 
 # Artifact
 器	ilo
@@ -140,6 +143,8 @@ use_preset_vocabulary: true
 皮	selo
 圓	sike
 壁	sinpin
+金	mani
+市	esun
 
 # Abstract
 道	nasin
@@ -196,3 +201,83 @@ use_preset_vocabulary: true
 
 # Autonym
 文言	munjan
+文言	Munjan
+
+# Non-pu
+經	pu
+典	ku
+巖	ewe
+
+
+方	leko
+反	jasima
+銳	kiki
+超	ete
+旨	jami
+
+中	tonsi
+雄	epiku
+醫	misikeke
+
+鼬	kijetesantakalu
+鬼	monsuta
+菌	soko
+鰐	kokosila
+
+思	isipin
+
+
+亂	kamalawala
+虹	kese
+
+唯	kulijo
+笑	kuntu
+取	lanpan
+网	linluwi
+央	meso
+
+磨	melome
+陽	mijomi
+
+鼠	misa
+餅	mulapisu
+焉	n
+
+聯	natu
+諾	oke
+別	omekapo
+柔	puwa
+
+三	san
+三	tuli
+四	po
+
+左	soto
+右	teje
+
+著	taki
+
+曰	te
+云	to
+
+紫	unu
+巫	usawi
+
+嗚	wa
+題	waleja
+往	wekama
+壞	yupekosi
+罪	apeja
+與	kan
+紺	kapesi
+
+切	kipisi
+
+古	majuna
+
+止	pake
+兄	pata
+
+虛	powe
+鴨嘴	sutopatikuna
+
