@@ -1,12 +1,12 @@
 schema:
   schema_id: toki_pona
   name: 言善
-  version: 0.2.0
+  version: 0.3.0
   author:
     - mkpoli <il.opkm@mkpo.li>
   description: |
     言善以書文言。
-    toki pona kepeken sitelen munjan.
+    toki pona kepeken sitelen Munjan.
 
 switches:
   - name: ascii_mode

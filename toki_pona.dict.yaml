@@ -1,6 +1,6 @@
 ﻿---
 name: toki_pona
-version: 0.2.0
+version: 0.3.0
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -200,7 +200,6 @@ use_preset_vocabulary: true
 希望	Epelanto
 
 # Autonym
-文言	munjan
 文言	Munjan
 
 # Non-pu
